@@ -1,4 +1,4 @@
-## Hacktiv8 Android Java for Mobile Dev: Assignment 3
+## Hacktiv8 Android Java for Mobile Dev: Final Project 3 Mechanical Calculator
 > Created by Anita Nursi &nbsp;&middot;&nbsp;
 > Student Code: JVAN-KS08-022 &nbsp;&middot;&nbsp;
 > Majority of Informatics &nbsp;&middot;&nbsp;
